@@ -1,4 +1,28 @@
 {
+  "addjob": [
+	{
+		"jobid": "2017 47672",
+		"weightgms": 8,
+		"country": "002",
+		"supplierid": 364,
+		"description": "*2017 Jersey Post TD",
+		"itemprice": 0.449,
+		"weightprice": 3.882,
+		"SIC": 0.480056,
+		"routing": "JPEU"
+	},	
+	{
+		"jobid": "2017 47639",
+		"weightgms": 8,
+		"country": "002",
+		"supplierid": 364,
+		"description": "*2017 Jersey Post TD",
+		"itemprice": 0.449,
+		"weightprice": 3.882,
+		"SIC": 0.480056,
+		"routing": "JPEU"
+	}	
+  ],
   "carriers": [
     {
       "id": 1,
