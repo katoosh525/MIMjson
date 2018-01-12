@@ -15,12 +15,23 @@
 		"jobid": "2017 47639",
 		"weightgms": 8,
 		"country": "002",
-		"supplierid": 364,
-		"description": "*2017 Jersey Post TD",
-		"itemprice": 0.449,
-		"weightprice": 3.882,
-		"SIC": 0.480056,
-		"routing": "JPEU"
+		"supplierid": 386,
+		"description": "#2017 Orange Post ADS Boxable GBP",
+		"itemprice": 0.332,
+		"weightprice": 1.898,
+		"SIC": 0.347184,
+		"routing": "OPADSPRI"
+	}	
+	{
+		"jobid": "2017 47541",
+		"weightgms": 250,
+		"country": "022",
+		"supplierid": 20,
+		"description": "#2018 Asendia Press HPP France",
+		"itemprice": 0.483,
+		"weightprice": 2.914,
+		"SIC": 1.21150,
+		"routing": "APRESSFRA1"
 	}	
   ],
   "carriers": [
